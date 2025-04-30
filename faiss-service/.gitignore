@@ -1,0 +1,5 @@
+__pycache__/
+venv/
+.venv/  # Another common name for virtual environments
+env/
+*.pyc    # Optionally, to ignore individual .pyc files
